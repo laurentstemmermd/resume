@@ -1,11 +1,13 @@
 My resume in english
 ======
 
-=LAURENT STEMMER=
+LAURENT STEMMER
 
+```
 Paris, France
 Mobile: +33 6 89 69 98 32
 Email: laurent.stemmer@gmail.com
+```
 
 [My profile]
 
