@@ -1,9 +1,5 @@
-My resume in english
-======
-
 LAURENT STEMMER : software developer
-
-
+======
 ```
 Proverb: The more languages you know, the more you are human
 Location: Paris, France
