@@ -56,4 +56,11 @@ Email: laurent.stemmer@gmail.com
 	- Development of a web portal for managing inventory on deposits and quarries France.
 
 - Junior software developer (Internship) - Altendis (2007)
-	- 
+	- Developed and maintained an e-learning platform
+
+[ Personal facts ]
+------------------
+
+- Dad-to-be :)
+- Teaching programming languages
+- Playing guitar and reading
