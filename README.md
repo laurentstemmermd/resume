@@ -29,7 +29,7 @@ Email: laurent.stemmer@gmail.com
 - Master Professionnel Ingénierie Logiciel pour l'Internet, University Jean Perrin, Lens, France (2007)
 
 [Work History]
------------
+--------------
 
 - Lead developer - Monsieurdrive.com (November 2011, October 2013)
 	- Young startup specialized in online growseries shopping
@@ -47,3 +47,13 @@ Email: laurent.stemmer@gmail.com
 	- Managing international team
 	- Introduced better software development tools and best-practices such as test-driven development and staged deployment environments
 
+- Software developer - Lafarge France (Oct 2007, December 2010)
+	- Third Party Maintenance of the ticketing software deployed on french and greek carriers :
+		- Development
+		- QA
+		- Training of the end users
+		- Support
+	- Development of a web portal for managing inventory on deposits and quarries France.
+
+- Junior software developer (Internship) - Altendis (2007)
+	- 
