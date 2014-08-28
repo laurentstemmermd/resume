@@ -27,7 +27,7 @@ Email: laurent.stemmer@gmail.com
 [Work History]
 --------------
 
-- Lead developer - Monsieurdrive.com (November 2011, October 2013)
+- Lead developer - Monsieurdrive.com (November 2013, Now)
 	- Young startup specialized in online growseries shopping
 	- Lead developer of four man team
 	- Urbanised the code, using domain driven development
