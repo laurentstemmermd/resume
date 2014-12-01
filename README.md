@@ -30,7 +30,7 @@ Email: laurent.stemmer@gmail.com
 - Lead developer - Monsieurdrive.com (November 2013, Now)
 	- Young startup specialized in online growseries shopping
 	- Lead developer of four man team
-	- Urbanised the code, using domain driven development
+	- Urbanised the code
 	- Increased the performance of the front-end website of 150%
 	- Introduced Agile for project management
 	- Improved development workflow, by introducing code reviews and usage of git-flow
